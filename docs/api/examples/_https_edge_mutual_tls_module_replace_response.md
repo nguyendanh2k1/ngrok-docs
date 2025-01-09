@@ -6,8 +6,8 @@
 {
 	"certificate_authorities": [
 		{
-			"id": "ca_2qRzB6V1NLBcYuD2SNJlpyigPP2",
-			"uri": "https://api.ngrok.com/certificate_authorities/ca_2qRzB6V1NLBcYuD2SNJlpyigPP2"
+			"id": "ca_2rO5KghClcSNipjet7w9SZm1Zjh",
+			"uri": "https://api.ngrok.com/certificate_authorities/ca_2rO5KghClcSNipjet7w9SZm1Zjh"
 		}
 	],
 	"enabled": true
